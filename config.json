@@ -1,0 +1,26 @@
+{
+  "daysThreshold": 180,
+  "createRestorePoint": true,
+  "excludePrograms": [
+    "Windows Security",
+    "Microsoft Edge",
+    "Windows Media Player",
+    "Microsoft Visual C++*",
+    "Microsoft .NET*",
+    "Windows Defender*",
+    "Intel*",
+    "NVIDIA*",
+    "AMD*",
+    "Realtek*",
+    "Google Chrome",
+    "Mozilla Firefox",
+    "VLC Media Player",
+    "7-Zip",
+    "WinRAR"
+  ],
+  "logLevel": "Info",
+  "reportFormat": "HTML",
+  "autoBackup": true,
+  "silentMode": false
+}
+
