@@ -1,8 +1,21 @@
 # 6MonthErase - Automated System Cleanup Utility
 
-![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue.svg)
-![Windows](https://img.shields.io/badge/Windows-10%2B-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+<div align="center">
+
+![6MonthErase Banner](6montherase_banner.png)
+
+![6MonthErase Logo](6montherase_logo.png)
+
+[![Made by ereezyy](https://img.shields.io/badge/Made%20by-ereezyy-blue?style=for-the-badge&logo=github)](https://github.com/ereezyy)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue?style=for-the-badge&logo=powershell)](https://docs.microsoft.com/en-us/powershell/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Open Source](https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge)](https://github.com/ereezyy/6montherase)
+
+**🧹 Intelligent System Cleanup • ⚡ PowerShell Automation • 🛡️ Safe & Reliable**
+
+</div>
+
+---
 
 ## Overview
 
